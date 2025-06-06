@@ -61,7 +61,7 @@ To analyze Adidas sales data using Power BI and deliver a clean, interactive das
 ---
 ## 📸 Dashboard Preview
 
-![Adidas Dashboard](adidas_sales_analysis.jpg)
+![Adidas Dashboard](Adidas_Sales_Analysis.jpg)
 
 ---
 
